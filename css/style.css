@@ -114,13 +114,16 @@ footer .container {
     display: none;
   }
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 450px){
   .rating h1{
     font-size: 2rem;
   }
   .gallery img{
     width: 100%;
     margin: 0
+  }
+  .supporting {
+      font-size: 1.5rem;
   }
   footer .container{
     display: none
