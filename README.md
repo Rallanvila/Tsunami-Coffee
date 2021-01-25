@@ -2,7 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Link](#Link)
 ## General info
 This is a learning project on building a responsive websitve that is viewable on mobile devices as well. 
 	
